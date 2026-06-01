@@ -4,7 +4,7 @@ Effective date: June 1, 2026
 
 Developer/contact: Alex Balazs — balazs.alex90@gmail.com
 
-Published privacy policy URL: https://balcsi15.github.io/resellmate-legal/
+Published privacy policy URL: [https://balcsi15.github.io/resellmate-legal/](https://github.com/balcsi15/resellmate-legal)
 ## Overview
 
 ResellMate helps second-hand sellers create honest listing text from real item photos and seller-provided item details. The app is designed for Vinted-style listings for clothing, shoes, bags, accessories, and similar items.
